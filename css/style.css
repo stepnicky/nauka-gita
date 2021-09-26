@@ -6,11 +6,16 @@ body {
 .header {
     background-color: blueviolet;
     padding: 5%;
-    margin: 0 auto;
 }
 
+.main {
+    background-color: chartreuse;
+    padding: 5% 0;
+}
 
 h1 {
     font-size: 56px;
 }
-
+p {
+    font-size: 18px;
+}
