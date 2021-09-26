@@ -6,8 +6,11 @@ body {
 .header {
     background-color: blueviolet;
     padding: 5%;
+    margin: 0 auto;
 }
+
 
 h1 {
     font-size: 56px;
 }
+
