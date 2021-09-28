@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "html-validate": "html-validate *.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepnicky/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepnicky/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/stepnicky/nauka-gita#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "html-validate": "^5.5.0"
+  }
+}
